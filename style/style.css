@@ -94,3 +94,13 @@ h1 {
    height: 500px;
    background:  rgb(179, 151, 199);
 }
+
+.footer {
+   padding: 50px 0;
+   background: rgb(91, 91, 165);;
+}
+
+p {
+   text-align: center;
+   font-size: 40px;
+}
